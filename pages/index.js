@@ -1,3 +1,5 @@
+import "../styles.css"
+
 export default function Index() {
   return (
     <h1>
