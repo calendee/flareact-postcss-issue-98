@@ -1,4 +1,4 @@
-# Flareact PostCSS Issue #98
+# [Flareact PostCSS Issue #98](https://github.com/flareact/flareact/issues/98)
 
 ## Instructions
 
